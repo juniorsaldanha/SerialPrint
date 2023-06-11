@@ -1,0 +1,8 @@
+{
+  "output": "../CHANGELOG.md",
+  "template": "../.changelog_template.hbs",
+  "release-summary": true,
+  "unreleased": false,
+  "commitLimit": false,
+  "tag-prefix": "v"
+}

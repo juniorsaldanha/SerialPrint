@@ -1,0 +1,20 @@
+###########################################
+# Syntax Coloring Map For SerialPrint     #
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)                    #
+###########################################
+
+SerialPrint	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)        #
+###########################################
+begin	KEYWORD2
+setOutputLevel	KEYWORD2
+setTimestampFunction	KEYWORD2
+setDatetimeISO	KEYWORD2
+setTimestamp	KEYWORD2
+print	KEYWORD2
+println	KEYWORD2

@@ -1,0 +1,11 @@
+**/release*_*.zip
+**/release_**/
+
+# Ignore all .zip files in the root
+*.zip
+
+# Ignore all binaries files
+*.exe
+*.dll
+*.so
+*.dylib
